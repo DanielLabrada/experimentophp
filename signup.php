@@ -8,7 +8,6 @@
 <body>
 
 <h1>Crear cuenta</h1>
-<!-- prueba de commit -->
  <form action="signup_process.php" method="post">
   <label>Usuario:
     <input type="text" name="username" required>
