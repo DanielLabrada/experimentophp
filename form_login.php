@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>Iniciar sesión</h1>
-
+<!-- Esto solo se verá en la rama -->
   <form action="login.php" method="post">
     <label>Usuario:
       <input type="text" name="username" required>
